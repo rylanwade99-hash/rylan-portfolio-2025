@@ -1,6 +1,7 @@
 {
-    "name": "rylan_portfolio_25",
-    "short_name": "rylan_portfolio_25",
+    "name": "rylan-portfolio-2025",
+    "short_name": "rylan-portfolio-2025",
+    "homepage": "https://rylanwade99-hash.github.io/rylan-portfolio-2025",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
